@@ -11,7 +11,9 @@ criei esse projeto ultilizando:
 - css
 - JavaScript
 
-  <h2>Veja o Projeto:</h2><a href="http://127.0.0.1:5500/index.html">
 
+<h2>Veja o Projeto:</h2>
+<a href=""><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68f4edf1-eb04-47af-ab98-980295f30113"/>
+</a> 
 
                        
