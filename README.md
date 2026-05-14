@@ -3,3 +3,10 @@ versão computador:
 <img src="https://github.com/LEONYS300/projeto-sorteador/blob/main/img%20projeto.png?raw=true">
 <br>
 aplicando responsividade:
+<img src="https://github.com/LEONYS300/projeto-sorteador/blob/main/img%20responsiva.png?raw=true">
+
+criei esse projeto ultilizando:
+
+- HTML
+- css
+- JavaScript
